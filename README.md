@@ -45,11 +45,13 @@ o	Input = 1V, 1kHz sine wave
 6.	Run simulation.
 7.	Observe input and output waveforms on CRO.
 ##  Waveform Observation
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12a5e176-47f3-49bf-afa2-499f865c8224" />
 •	Input: Sine wave
 •	Output: Amplified sine wave
 •	Phase Shift: 180°
 •	Gain ≈ -10
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12a5e176-47f3-49bf-afa2-499f865c8224" />
+
+
 ## Result
 The Inverting Amplifier using μA741 Op-Amp was successfully designed and simulated in Proteus.
 The practical output voltage closely matches the theoretical value.
